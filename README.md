@@ -1,35 +1,42 @@
-# JMB Printing Services Website
+JMB Printing Services Website
 
-This project is a static website for **JMB Printing Services**,
-showcasing high-quality printing solutions for businesses and
-individuals.
+This project is a simple business website for JMB Printing Services, highlighting the company’s services and tagline: "High Quality Prints".
 
-## 📂 Project Structure
+Features
 
--   `JMBPS23.htm` --- Main HTML file for the site
--   Assets (images, icons, etc.) are embedded or linked inside the HTML
-    file.
+Responsive HTML layout
 
-## 🚀 Features
+Business branding and logo integration
 
--   Responsive design (mobile-friendly via viewport meta tags).
--   Branding and logo integration.
--   Service highlights (printing, digital solutions, shop information).
--   SEO-ready metadata.
+Contact information and location details
 
-## 🛠️ How to Use
+Pricing tables for different ID printing services
 
-1.  Open `JMBPS23.htm` in a web browser to view the site.
-2.  Deploy it on a web server (e.g., Apache, Nginx, or GitHub Pages) for
-    public access.
+Simple, clean design optimized for clients
 
-## 📌 Requirements
+Project Structure
 
--   Modern web browser (Chrome, Firefox, Edge, Safari).
--   (Optional) Web server if hosting online.
+JMBPS23.htm – Main HTML file of the website
 
-## 🔮 Future Improvements
+Assets (if provided) – Images, logos, or icons used in the site
 
--   Extract inline styles/scripts into separate CSS/JS files.
--   Optimize images for faster loading.
--   Add contact forms and interactive features.
+How to Use
+
+Open JMBPS23.htm in any modern browser.
+
+Customize business details (address, email, phone number) inside the HTML.
+
+Replace placeholder images/logos with your official branding.
+
+Customization
+
+Update <title> and meta tags for SEO.
+
+Modify pricing tables to reflect current services.
+
+Adjust styles via embedded CSS or external stylesheet.
+
+Author
+
+Jorenz Melo Balbuena Studio Production, Inc.
+Est. 2023
